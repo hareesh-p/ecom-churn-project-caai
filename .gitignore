@@ -1,0 +1,28 @@
+# ===================================================
+# System-specific files (macOS, Windows)
+# ===================================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+
+# ===================================================
+# Project-specific files
+# ===================================================
+# Ignore Jupyter Notebook files
+*.ipynb
+
+# Ignore the checkpoints directory created by Jupyter
+.ipynb_checkpoints/
+
+# Ignore common document file types
+*.docx
+*.doc
+*.pdf
+
+# Ignore the entire 'docs' folder
+docs/
