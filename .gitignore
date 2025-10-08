@@ -9,7 +9,8 @@
 .Trashes
 Thumbs.db
 ehthumbs.db
-
+rfm.csv
+catboost_info/
 # ===================================================
 # Project-specific files
 # ===================================================
@@ -23,6 +24,7 @@ ehthumbs.db
 *.docx
 *.doc
 *.pdf
+*.xlsx
 
 # Ignore the entire 'docs' folder
 docs/
